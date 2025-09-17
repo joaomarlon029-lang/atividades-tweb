@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tecnologias web</title>
+</head>
+<body>
+    <div id="cabeçalho">
+    <header>     
+        <nav>
+            <h3>TWEB</h3> 
+                    <a href="#">home</a>
+                    <a href="#">módulos</a>
+                    <a href="#">planos</a>
+                    <a href="#">time</a>
+                    <a href="#">contato</a>
+        </nav>
+    </header>
+    </div>
+    <div id="logotipo">
+        <h1>wireframe tecnologias web</h1>
+        <h1>logo</h1>
+            <a href="#">acessar</a>
+            <a href="#">scrol to more</a>
+    <article>
+    </div>
+    <div id="modulos">
+        <h2>modulos do curso</h2>
+            <p>there are many reasons to get down and start to get depressed about your situation.</p>
+            <dl>
+                <dt>introdução ao html</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>estrutura do html</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>titulos e paragrafos</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>listas</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>link e imagems</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>tags estruturais</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>formularios</dt>
+                    <dd>there are many reasons to get down</dd>
+                <dt>css</dt>
+                    <dd>there are many reasons to get down</dd>
+            </dl>
+    </div>
+    </article>
+    <div id="planos">
+        <h2>escolha seu plano</h2>
+            <p>there are many reasons to get down and star to get depressed about your situation. There are many reasons to get down and star to get</p>
+            <dl>
+                <dt>standart</dt>
+                    <dd>free    how hypnosis, off to see lern how, why re invent, discover your</dd>
+                <dt>individual</dt>
+                    <dd>free    how hypnosis, off to see lern how, why re invent, discover your</dd>
+                <dt>team</dt>
+                    <dd>free    how hypnosis, off to see lern how, why re invent, discover your</dd>
+            </dl>
+    </div>
+    </body>
+    </body>
+    <div id="time">
+        <h2>tem interesse em aprender html e cll de forma direta? basta acessar nosso curso ou clique em preview para ter acersso ao teste</h2>
+            <a href="#">acessar</a>
+            <a href="#">preview</a>
+        <h2>choosing the right path</h2>
+            <p>There are many reasons to get down and start to get depressed about your situation</p>
+                <img src="#" alt="um cara vendo as linguagens de programação no seu tablet">
+        <h2>nosso time</h2>
+                <p>There are many reasons to get down and start to get depressed about your situation</p>
+                <img src="https://img.freepik.com/fotos-gratis/jovem-empresario-trabalhando-com-computador-remotamente_1328-3386.jpg?semt=ais_hybrid&w=740" alt="Alan silva DEVELOPER" width="40%">
+                <h3>Emerson Santos DEVELOPER</h3>   
+                <img src="https://img.freepik.com/fotos-gratis/homem-sorridente-trabalhando-no-laptop-em-casa_23-2148306647.jpg" alt="Alan silva DEVELOPER" width="40%">
+                <h3>alan silva DEVELPER</h3>
+                <img src="https://img.freepik.com/fotos-gratis/mulher-de-tiro-medio-a-trabalhar-num-portatil_23-2149410546.jpg?semt=ais_incoming&w=740&q=80" alt="fernanda lima DESIGNER" width="40%">
+                <h3>Fernanda Lima DESIGNER</h3>
+                <h3>"HTML e a espinha dorsal da internet, o alicerce invisível de cada página, que dá forma ás ideias e conecta o mundo digital."</h3>
+    </div>
+    <div id="rodapé">
+                <footer>
+        <h3>tweb</h3>
+         <p>disciplina com foco em desenvolvimento web com html e css</p>
+         <ul>
+            <li>
+                <a href="#">about</a>
+            </li>
+            <li>
+                <a href="#">services</a>
+            </li>
+            <li>
+                <a href="#">plans</a>
+            </li>
+            <li>
+                <a href="#">avalible</a>
+            </li>
+            <li>
+                 <a href="#">your team</a>
+            </li>
+        </ul>
+        <p>@2025 todos os direitos reservados</p>
+    </footer>
+    </div> 
+</body>
+</html>
